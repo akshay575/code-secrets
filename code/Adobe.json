@@ -1,0 +1,14 @@
+{
+    "ACSConfiguration": {
+        "CampaignAPIUrl": "https://mc.adobe.io",
+        "OrganizationInstance": "acs409ap.campaign-sandbox.adobe.com",
+        "TransactionalAPI": "mcmediawidelabsexchange",
+        "APIKey": "f91b07238f824126b666c11c37977703",
+        "TokenParam": {
+            "Url": "https://ims-na1.adobelogin.com/ims/exchange/jwt/",
+            "Client_Id": "f91b07238f824126b666c11c37977703",
+            "Client_Secret": "a97d1686-4cc8-4264-ab4c-b5e51a19ba32",
+            "Jwt_Token": "eyJhbGciOiJSUzI1NiJ9.ew0KICAgICJleHAiOiAxNTUxNzYzMjM2LA0KICAgICJpc3MiOiAiOUQ3OTQzNzE1QzYxOEQ4NjBBNDk1QzY1QEFkb2JlT3JnIiwNCiAgICAic3ViIjogIjAxNjU1NTkzNUM2QTg4NDkwQTQ5NUU5MEB0ZWNoYWNjdC5hZG9iZS5jb20iLA0KICAgICJodHRwczovL2ltcy1uYTEuYWRvYmVsb2dpbi5jb20vcy9lbnRfY2FtcGFpZ25fc2RrIjogdHJ1ZSwNCiAgICAiYXVkIjogImh0dHBzOi8vaW1zLW5hMS5hZG9iZWxvZ2luLmNvbS9jL2Y5MWIwNzIzOGY4MjQxMjZiNjY2YzExYzM3OTc3NzAzIg0KfQ.PfLpn_nQuDP71qHtxRjohz295spKvoUJeoq6D9WKrFYTsAaXcQbELNa6mRuMwu9MU01j0qUDCdzv8YxFEhZ0M21FI3HWWP3lppsliaceY04me1SHWrEfjJhNf0SKBKxAaC0f_sxg14sFs_VeSEg2ROr5wB_8HRz6wncD3oz5fAzuUAzEIwtQDtbZRFAH-ZL_OE7-budcrmimnYs_KOTt3fzBjxKRHUX1u_wWjByJMxKwn1vcoX6s7HcyMpzMYztQToeQi9WRa-FmfoJ-0gwGTfijmSKiHnEOAETqW_0l5F05-BHG8eLsBDPNVROLFjXZ_zF_Mc5IrO9ShO1OsJEIJQ"
+        }
+    }
+}
